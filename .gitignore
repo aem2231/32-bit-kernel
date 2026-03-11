@@ -1,0 +1,20 @@
+# Build outputs
+*.o
+*.iso
+*.bin
+*.img
+myos
+myos.iso
+
+# Nix
+.direnv
+result
+
+# Editor
+.nvim.lua
+.clang-format
+
+# Debug/misc
+*.log
+*.tmp
+isodir
